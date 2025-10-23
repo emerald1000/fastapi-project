@@ -1,2 +1,6 @@
 fastapi
 uvicorn
+opencv-contrib-python
+numpy
+pillow
+python-multipart
